@@ -1,0 +1,12 @@
+/* Write your code here. */
+.thumbbtn {
+  display: flex;
+}
+button {
+  padding-right: 13px;
+  background-color: #ffffff;
+  border-width: 0px;
+}
+.nonactive {
+  opacity: 0.5;
+}
